@@ -1,1 +1,10 @@
-{}
+{
+  "auth": {
+    "sevenawarev11ad544d5c": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
